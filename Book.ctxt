@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Book
+comment0.text=\r\n\ This\ is\ the\ book\ class.\ The\ book\ class\ defines\ necessary\ methods\ such\ as\ to\ get\ the\ title\ of\ the\ book.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Book()
+comment10.params=
+comment10.target=boolean\ isBorrowed()
+comment2.params=bookName
+comment2.target=Book(java.lang.String)
+comment3.params=borrowed
+comment3.target=Book(boolean)
+comment4.params=bookName
+comment4.target=void\ setBookName(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getBookName()
+comment6.params=borrowed
+comment6.target=void\ setBorrowed(boolean)
+comment7.params=
+comment7.target=boolean\ getBorrowed()
+comment8.params=
+comment8.target=void\ borrowed()
+comment9.params=
+comment9.target=void\ returned()
+numComments=11

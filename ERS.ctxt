@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ERS
+comment0.text=\r\n\ This\ program\ is\ a\ new\ Electronic\ Rental\ System(ERS)\ for\ the\ libraries\ in\ Tacoma.\ The\ ERS\ allows\ users\ to\ perform\ series\ of\ functions\ including\ print,\ borrow,\ and\ return\ books.\r\n\ This\ is\ the\ ERS\ Class.\ The\ ERS\ Class\ implements\ the\ main\ method\ that\ stimulates\ the\ usage\ of\ the\ ERS\ system.\r\n\ @author\ Esther\ Mosaku\r\n\ @version\ 24th\ October,\ 2024.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ printOpeningHours()
+comment3.params=
+comment3.target=void\ welcome()
+numComments=4
